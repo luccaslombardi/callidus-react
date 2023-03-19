@@ -8,8 +8,8 @@ function App() {
   return (
     <div className="App">
       <div>
-        <a href="https://reactjs.org" target="_blank">
-          <img src={callidusLogo} className="logo react" alt="React logo" />
+        <a href="https://www.instagram.com/calliduscomunicacao/" target="_blank">
+          <img src={callidusLogo} className="logo react" alt="Callidus Instagram" />
         </a>
       </div>
       <div className="titleContainer">
