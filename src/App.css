@@ -13,13 +13,7 @@
   -webkit-animation: logo-spin 5s infinite linear;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-
-#myImg {
+  filter: drop-shadow(0 0 2em #4232a1);
 }
 
 @-webkit-keyframes logo-spin {
@@ -62,9 +56,14 @@
 }
 
 .titleDiv h3 {
-  margin-left: -10px;
   font-size: 2rem;
   font-weight: 200;
+}
+
+span {
+  font-size: 1.2rem;
+  color: #888;
+  font-family: "AltoneBold";
 }
 
 .read-the-docs {

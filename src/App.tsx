@@ -21,11 +21,11 @@ function App() {
       </div>
 
 
-      <span className="read-the-docs">
+      <span>
         Site em Construção
       </span>
       <p className="read-the-docs">
-        Clique no Logo da Callidus para saber mais...
+        Clique no logo para saber mais...
       </p>
     </div>
   )
