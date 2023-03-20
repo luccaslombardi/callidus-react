@@ -1,4 +1,4 @@
-import callidusLogo from './assets/logo-callidus.png'
+import callidusLogo from './assets/logo-callidus-sem-calda.svg'
 import './App.css'
 import './fonts/AltoneTrial-Bold.ttf'
 
