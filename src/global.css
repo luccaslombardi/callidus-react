@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "altoneBold"; /*Can be any text*/
+  src: local("AltoneTrial-Bold"),
+    url("./fonts/AltoneTrial-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "altoneRegular"; /*Can be any text*/
+  src: local("AltoneTrial-Regular"),
+    url("./fonts/AltoneTrial-Regular.ttf") format("truetype");
+}
+
+body {
+  @apply bg-brand-blue overflow-x-hidden text-brand-font font-altoneRegular;
+}
