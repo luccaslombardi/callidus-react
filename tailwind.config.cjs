@@ -14,6 +14,9 @@ module.exports = {
         altoneRegular: ["altoneRegular", "sans-serif"],
         altoneBold: ["altoneBold", "sans-serif"],
       },
+      animation: {
+        "spin-slow": "spin 5s linear infinite",
+      },
     },
   },
   plugins: [],
