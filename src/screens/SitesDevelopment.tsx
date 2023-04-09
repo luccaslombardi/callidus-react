@@ -14,7 +14,7 @@ export function SitesDevelopment() {
                 <div className="flex flex-row justify-between items-end w-4/5 max-w-7xl md:px-8">
 
                     <div className="basis-1/3">
-                        <ul className=' flex flex-col gap-3 text-white text-2xl list-disc pb-14'>
+                        <ul className=' flex flex-col gap-3 text-white text-2xl list-disc pb-16'>
                             <li>Landing Pages</li>
                             <li>Sites Corporativos</li>
                             <li>E-Commerces</li>
