@@ -3,7 +3,7 @@ import callidusLogoRotate from '../assets/logo-callidus-sem-calda.svg'
 
 export function Principal() {
     return (
-        <div className="flex h-screen w-screen justify-center bg-[url('assets/fullbanner-principal.png')] bg-cover">
+        <div className="flex h-screen w-screen justify-center bg-[url('assets/fullbanner-principal.png')] bg-cover bg-bottom">
 
             <div className="flex flex-row items-center justify-center w-4/5 max-w-7xl md:px-8">
 
