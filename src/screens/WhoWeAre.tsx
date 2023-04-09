@@ -1,7 +1,7 @@
 import modelImage from '../assets/model-1.png'
 
 
-export function Second() {
+export function WhoWeAre() {
     return (
         <div className="flex h-screen w-screen justify-center items-center bg-cover py-32">
             <div className="flex w-4/5 max-w-7xl md:px-8">

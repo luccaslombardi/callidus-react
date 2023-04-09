@@ -1,6 +1,7 @@
 import { Header } from './components/Header'
 import { Principal } from './screens/Principal'
-import { Second } from './screens/Second'
+import { SocialMediaStaff } from './screens/SocialMediaStaff'
+import { WhoWeAre } from './screens/WhoWeAre'
 
 
 export function App() {
@@ -8,7 +9,8 @@ export function App() {
     <>
       <Header />
       <Principal />
-      <Second />
+      <WhoWeAre />
+      <SocialMediaStaff />
     </>
   )
 }
