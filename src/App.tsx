@@ -1,5 +1,6 @@
 import { Header } from './components/Header'
 import { CampainAds } from './screens/CampainAds'
+import { OtherServices } from './screens/OtherServices'
 import { Principal } from './screens/Principal'
 import { SitesDevelopment } from './screens/SitesDevelopment'
 import { SocialMediaStaff } from './screens/SocialMediaStaff'
@@ -15,6 +16,7 @@ export function App() {
       <SocialMediaStaff />
       <SitesDevelopment />
       <CampainAds />
+      <OtherServices />
     </>
   )
 }

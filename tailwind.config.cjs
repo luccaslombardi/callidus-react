@@ -8,6 +8,7 @@ module.exports = {
           pink: "#F80F60",
           blue: "#0E0A2D",
           font: "#888888",
+          darkBlue: "#070019",
         },
       },
       fontFamily: {
@@ -19,5 +20,5 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [require("tailwind-scrollbar")({ nocompatible: true })],
 };
