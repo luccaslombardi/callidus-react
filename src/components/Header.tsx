@@ -12,7 +12,7 @@ export function Header() {
                 <div className="md:flex hidden">
                     <ul className="px-4 mr-[-12px]">
                         <li className="inline px-4 hover:border-b-2 border-brand-pink py-8 transition-all hover:text-white"><AnchorLink href="#whoWeAre">Quem Somos</AnchorLink></li>
-                        <li className="inline px-4 hover:border-b-2 border-brand-pink py-8 transition-all hover:text-white"><AnchorLink href="#socialMediaStaff">Social Medias</AnchorLink></li>
+                        <li className="inline px-4 hover:border-b-2 border-brand-pink py-8 transition-all hover:text-white"><AnchorLink href="#socialMediaStaff">Social Media</AnchorLink></li>
                         <li className="inline px-4 hover:border-b-2 border-brand-pink py-8 transition-all hover:text-white"><AnchorLink href="#sitesDevelopment">Sites</AnchorLink></li>
                         <li className="inline px-4 hover:border-b-2 border-brand-pink py-8 transition-all hover:text-white"><AnchorLink href="#campainAds">Campanhas</AnchorLink></li>
                         <li className="inline px-4 hover:border-b-2 border-brand-pink py-8 transition-all hover:text-white"><AnchorLink href="#otherServices">Outros Serviços</AnchorLink></li>
