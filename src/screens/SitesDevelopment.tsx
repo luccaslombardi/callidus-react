@@ -21,8 +21,8 @@ export function SitesDevelopment() {
                             <li>Wordpress</li>
                         </ul>
                     </div>
-                    <div className="basis-1/2 mb-[-65px]">
-                        <img src={notebookImage} alt="Model" />
+                    <div className="basis-1/2 mb-[-65px] z-10">
+                        <img src={notebookImage} alt="Notebook" />
                     </div>
                 </div>
             </div>

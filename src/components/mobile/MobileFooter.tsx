@@ -28,7 +28,7 @@ export function MobileFooter() {
 
                     </span>
                 </div>
-                <AnchorLink href="#top">
+                <AnchorLink href="#mobileTop">
                     <div className="text-xl md:text-2xl text-white p-2 md:p-3 bg-brand-blue bg-opacity-20 rounded-md hover:bg-opacity-40 hover:text-white transition-all duration-200">
                         <BiUpArrow />
                     </div>

@@ -21,7 +21,7 @@ import { MobileWhoWeAre } from './screens/mobile/MobileWhoWeAre'
 export function App() {
   return (
     <>
-      <div className="hidden md:flex md:flex-col">
+      <div className="hidden lg:flex lg:flex-col">
         <WhatsApp />
         <Header />
         <Principal />
@@ -33,8 +33,8 @@ export function App() {
         <Footer />
       </div>
 
-      <div className="flex flex-col md:hidden">
-        <MobileWhatsApp />
+      <div className="flex flex-col lg:hidden">
+
         <MobileHeader />
         <MobilePrincipal />
         <MobileWhoWeAre />
