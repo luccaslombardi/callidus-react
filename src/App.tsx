@@ -34,7 +34,7 @@ export function App() {
       </div>
 
       <div className="flex flex-col lg:hidden">
-
+        <MobileWhatsApp />
         <MobileHeader />
         <MobilePrincipal />
         <MobileWhoWeAre />
