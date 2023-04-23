@@ -1,6 +1,6 @@
-import notebookImage from '../assets/notebook.png'
+import notebookImage from '../../assets/notebook.png'
 
-export function SitesDevelopment() {
+export function MobileSitesDevelopment() {
     return (
         <>
             <div className="flex justify-center w-screen self-center" id='sitesDevelopment'>

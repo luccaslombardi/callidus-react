@@ -3,7 +3,7 @@ import { BsFillCalendar2MonthFill, BsFillCameraFill, BsFillCameraVideoFill, BsFi
 import { SiAdobeaftereffects } from "react-icons/si"
 
 
-export function OtherServices() {
+export function MobileOtherServices() {
     return (
         <div className="flex h-screen w-screen justify-center bg-brand-darkBlue" id="otherServices">
             <div className="flex flex-col gap-10 h-screen items-center justify-center w-4/5 max-w-7xl ">

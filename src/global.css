@@ -15,5 +15,5 @@
 }
 
 body {
-  @apply bg-brand-blue overflow-x-hidden text-brand-font font-altoneRegular;
+  @apply bg-brand-blue overflow-x-hidden text-brand-font font-altoneRegular scrollbar-thin scrollbar-thumb-gray-800 scrollbar-track-transparent scrollbar-thumb-rounded;
 }

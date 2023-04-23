@@ -1,7 +1,7 @@
 import AnchorLink from "react-anchor-link-smooth-scroll"
-import logo from "../assets/callidus-logo.svg"
+import logo from "../../assets/callidus-logo.svg"
 
-export function Header() {
+export function MobileHeader() {
     return (
         <header className="h-20 w-screen flex absolute justify-center items-center z-50 border-b-[1px] border-gray-700 bg-black bg-opacity-10 backdrop-blur-md" id="top" >
             <div className="flex justify-between flex-wrap items-center w-4/5 max-w-7xl md:px-8 ">

@@ -1,6 +1,6 @@
-import planetImage from '../assets/planet-spaceship.png'
+import planetImage from '../../assets/planet-spaceship.png'
 
-export function CampainAds() {
+export function MobileCampainAds() {
     return (
         <div className="flex h-screen w-screen justify-center bg-[url('assets/space-background.png')] bg-cover bg-bottom" id="campainAds">
 

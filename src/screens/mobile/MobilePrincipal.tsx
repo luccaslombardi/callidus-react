@@ -1,7 +1,7 @@
-import callidusLogoRotate from '../assets/logo-callidus-sem-calda.svg'
+import callidusLogoRotate from '../../assets/logo-callidus-sem-calda.svg'
 
 
-export function Principal() {
+export function MobilePrincipal() {
     return (
         <div className="flex h-screen w-screen justify-center bg-[url('assets/fullbanner-principal.png')] bg-cover bg-bottom">
 
@@ -42,9 +42,6 @@ export function Principal() {
 
                 </div>
 
-                <div className="flex basis-1/3">
-                    <img src={callidusLogoRotate} alt="Callidus" className="absolute animate-spin-slow w-2/3 2xl:w-[950px] right-[-100px] 2xl:right-28 bottom-[-150px] top-[-150px] 2xl:top-[-120px]" />
-                </div>
 
             </div>
 

@@ -1,6 +1,6 @@
-import astroSkate from '../assets/astro-skate.png'
+import astroSkate from '../../assets/astro-skate.png'
 
-export function SocialMediaStaff() {
+export function MobileSocialMediaStaff() {
     return (
         <div className="flex h-screen w-screen justify-center items-center bg-cover py-32" id="socialMediaStaff">
             <div className="flex justify-between items-start w-4/5 max-w-7xl md:px-8">

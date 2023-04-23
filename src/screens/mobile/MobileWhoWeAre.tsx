@@ -1,7 +1,7 @@
-import modelImage from '../assets/model-1.png'
+import modelImage from '../../assets/model-1.png'
 
 
-export function WhoWeAre() {
+export function MobileWhoWeAre() {
     return (
         <div className="flex h-screen w-screen justify-center items-center bg-cover py-32" id="whoWeAre">
             <div className="flex w-4/5 max-w-7xl md:px-8">
