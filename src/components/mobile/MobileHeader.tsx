@@ -1,7 +1,6 @@
 import { useState } from "react";
-import logo from "../../assets/callidus-logo.svg"
+import logo from "../../assets/logo-callidus.png"
 
-import AnchorLink from "react-anchor-link-smooth-scroll";
 
 export function MobileHeader() {
     return (

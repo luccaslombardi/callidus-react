@@ -1,5 +1,5 @@
 import AnchorLink from "react-anchor-link-smooth-scroll"
-import logo from "../assets/callidus-logo.svg"
+import logo from "../assets/logo-callidus.png"
 
 export function Header() {
     return (
