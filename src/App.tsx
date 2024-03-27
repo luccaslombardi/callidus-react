@@ -16,6 +16,7 @@ import { MobilePrincipal } from './screens/mobile/MobilePrincipal'
 import { MobileSitesDevelopment } from './screens/mobile/MobileSitesDevelopment'
 import { MobileSocialMediaStaff } from './screens/mobile/MobileSocialMediaStaff'
 import { MobileWhoWeAre } from './screens/mobile/MobileWhoWeAre'
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 
 export function App() {
@@ -31,6 +32,7 @@ export function App() {
         <CampainAds />
         <OtherServices />
         <Footer />
+        <SpeedInsights />
       </div>
 
       <div className="flex flex-col lg:hidden">
@@ -43,6 +45,7 @@ export function App() {
         <MobileCampainAds />
         <MobileOtherServices />
         <MobileFooter />
+        <SpeedInsights />
       </div>
     </>
   )
